@@ -7,12 +7,10 @@ def fourth_challenge
       :hero_friends => [
         {:name => "Benvilio",
          :age => "17",
-         :attitude => "worried"
-        },
+         :attitude => "worried"},
         {:name => "Mercutio",
          :age => "18",
-         :attitude => "hot-headed"
-        }
+         :attitude => "hot-headed"}
       ]
    }, 
    :capulet => {
@@ -22,12 +20,10 @@ def fourth_challenge
       :heroine_friends => [
         {:name => "Steven",
          :age => "30",
-         :attitude => "confused"
-        },
+         :attitude => "confused"},
         {:name => "Nurse",
          :age => "44",
-         :attitude => "worried"
-        }
+         :attitude => "worried"}
       ]
    }
 }
